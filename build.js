@@ -28,7 +28,7 @@ export function symbol(symbol, sytel) {
 	let node = new Image();
 	node.classList.add("symbol");
 	node.src = `/images/${symbol}.png`;
-	retun node;
+	return node;
 }
 
 
