@@ -15,7 +15,7 @@ export let all = [];
 //}
 
 export function init() {
-    for (let i = 0; i < 55; i++) {
+    for (let i = 0; i < 57; i++) {
         all.push(i);
     }
 }
